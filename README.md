@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlomaWakey34
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in Full Stack Developer & cyber security
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javscript, React and tail wind CSS
 - 📫 How to reach me, you can send me and email to wakey4liv@gmail.com
